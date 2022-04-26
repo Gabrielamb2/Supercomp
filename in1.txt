@@ -1,0 +1,5 @@
+10
+40
+-A-GCGG-C-
+AT-T--ATCT-T-TTCTAGT-TGT--TAGA---C--TT-G
+2 -1 -1

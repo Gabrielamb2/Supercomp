@@ -1,0 +1,10 @@
+sequencia a: AC-TACGCGC tamanho: 10
+sequencia b: -CGACATACCCTC-TTCGTGGCCA-TA-C-TAGT-ATAAC tamanho: 40
+
+match: 2
+mismatch: -1
+gap: -1
+
+Maior score: 11
+sa: AC-TACGCGC
+sb: -CGACATACCC

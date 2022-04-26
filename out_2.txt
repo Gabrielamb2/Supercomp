@@ -1,0 +1,10 @@
+sequencia a: AGCACACA tamanho: 8
+sequencia b: ACACACTA tamanho: 8
+
+match: 2
+mismatch: -1
+gap: -1
+
+Maior score: 11
+sa: AGCACAC
+sb: ACACAC
